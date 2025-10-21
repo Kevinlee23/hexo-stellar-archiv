@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-09-16T07:27:10.303Z</updated>
+  <updated>2025-10-21T01:45:10.646Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2025：浏览器中的 A-Z</title>
+    <link href="http://example.com/2025/10/21/2025-A-Z/"/>
+    <id>http://example.com/2025/10/21/2025-A-Z/</id>
+    <published>2025-10-21T02:00:00.000Z</published>
+    <updated>2025-10-21T01:45:10.646Z</updated>
+    
+    <content type="html"><![CDATA[<p>虽然还有 2 个月才结束 2025 年，但还是在记得这件事的时候写完</p><span id="more"></span><blockquote><p>灵感来源：Sukka - <a href="https://blog.skk.moe/post/2024-browser-from-a-to-z/">2024：浏览器从 A 到 Z</a></p></blockquote><h2 id="A"><a href="#A" class="headerlink" title="A"></a>A</h2><p>amap.com 高德地图</p><p>ayu.land 甜鱼的博客</p><h2 id="B"><a href="#B" class="headerlink" title="B"></a>B</h2><p>bbs.nga.cn : nga 论坛，主要看 dota2 版块了解赛事详情和场内外新闻</p><p>bilibili.com : 哔哩哔哩</p><h2 id="C"><a href="#C" class="headerlink" title="C"></a>C</h2><p>cursor.com : 今年 ai 工具主要用的是 cursor</p><h2 id="D"><a href="#D" class="headerlink" title="D"></a>D</h2><p>developer.mozilla.org : 查阅一些不太熟的 js api 或者 css 特性</p><p>deepseek.com</p><h2 id="E"><a href="#E" class="headerlink" title="E"></a>E</h2><p>element.eleme.cn : 今年都没怎么用过 element, 感觉样式优点过时，更喜欢用 shadcn</p><h2 id="F"><a href="#F" class="headerlink" title="F"></a>F</h2><p>Flowercloud.net : 梯子网站</p><h2 id="G"><a href="#G" class="headerlink" title="G"></a>G</h2><p>github.com</p><p>gallery.snowinlu.top : 今年做的一个图库项目</p><h2 id="H"><a href="#H" class="headerlink" title="H"></a>H</h2><p>huya.com : 看 dota2 比赛</p><h2 id="I"><a href="#I" class="headerlink" title="I"></a>I</h2><p>innei.in : innei 是一个关注了很久的技术大佬, follow 的主力开发</p><h2 id="J"><a href="#J" class="headerlink" title="J"></a>J</h2><p>juejin.cn</p><p>json.cn : 用来看一些后端传回来的大数据</p><h2 id="K"><a href="#K" class="headerlink" title="K"></a>K</h2><p>kevinlee23.github.io&#x2F;vitepress-til&#x2F; : 自己记录一些笔记的博客</p><h2 id="L"><a href="#L" class="headerlink" title="L"></a>L</h2><p>liquipedia.net : 看 dota2 比赛数据和赛事信息</p><p>localhost:&#x2F;&#x2F;</p><h2 id="M"><a href="#M" class="headerlink" title="M"></a>M</h2><p>mongoosejs.com</p><p>mantyke.icu : 小球飞鱼，一个比较有意思的博客</p><h2 id="N"><a href="#N" class="headerlink" title="N"></a>N</h2><p>newsnow.busiyi.world : 综合性的新闻导航</p><h2 id="O"><a href="#O" class="headerlink" title="O"></a>O</h2><p>none</p><h2 id="P"><a href="#P" class="headerlink" title="P"></a>P</h2><p>perplexity.ai : 卡 bug 领到会员后被回收了，就很少用了…</p><h2 id="Q"><a href="#Q" class="headerlink" title="Q"></a>Q</h2><p>none</p><h2 id="R"><a href="#R" class="headerlink" title="R"></a>R</h2><p>ruanyifeng.com : 每周必读的电子读物</p><h2 id="S"><a href="#S" class="headerlink" title="S"></a>S</h2><p>sspai.com : 每个月看一下 【x 月买了什么】专辑</p><p>shadcn-vue.com</p><h2 id="T"><a href="#T" class="headerlink" title="T"></a>T</h2><p>tailwindcss.com</p><h2 id="U"><a href="#U" class="headerlink" title="U"></a>U</h2><p>unocss.dev</p><h2 id="V"><a href="#V" class="headerlink" title="V"></a>V</h2><p>v2ex.com</p><p>v3.cn.vuejs.org</p><h2 id="W"><a href="#W" class="headerlink" title="W"></a>W</h2><p>wakatime.com</p><h2 id="X"><a href="#X" class="headerlink" title="X"></a>X</h2><p>x.com</p><p>xaoxuu.com : 我使用的博客主题的开发者</p><h2 id="Y"><a href="#Y" class="headerlink" title="Y"></a>Y</h2><p>youtube.com</p><h2 id="Z"><a href="#Z" class="headerlink" title="Z"></a>Z</h2><p>zhihu.com</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;虽然还有 2 个月才结束 2025 年，但还是在记得这件事的时候写完&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="杂文" scheme="http://example.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="技术杂谈" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>功亏一篑</title>
