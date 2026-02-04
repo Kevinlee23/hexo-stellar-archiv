@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-10-21T01:45:10.646Z</updated>
+  <updated>2026-02-04T05:52:01.469Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>书店的“消失”</title>
+    <link href="http://example.com/2026/02/04/the-disppearance-of-bookstores/"/>
+    <id>http://example.com/2026/02/04/the-disppearance-of-bookstores/</id>
+    <published>2026-02-03T16:00:00.000Z</published>
+    <updated>2026-02-04T05:52:01.469Z</updated>
+    
+    <content type="html"><![CDATA[<p>上周末回浏阳，跟琦琦上街逛的时候路过了市一中，熟悉的春雷书店依旧还在营业。</p><p>“这个书店是我高中时是我获取精神养分的重要来源，虽然开在市中心，但每周都会往我就读的郊区高中送最新的报刊、书籍。进而在高中我就读过了马尔克斯，村上春树等耳熟能详的名家作品。在同龄人中，我算是爱看书的一类人，书店是我闲暇时最爱的落脚点之一。”</p><p>进入书店，右手边依旧是熟悉的漫画书书柜，各种当下流行的日本漫画一应俱全。再往内，画面变得陌生，店内约莫3&#x2F;4面积的书柜，皆是化作了教辅书的陈列处，左手边墙角零零散散的还有一些青春文学，促销标语醒目地刺痛着我的眼睛，“小说类书籍75折甩卖”。我读书时最钟爱的文学类书籍差不多已是全然无了。</p><p>和店员闲聊时谈到现在的读书环境，她也无奈说到现在的小孩子根本就不爱看文学书籍了，喜欢的更多是BL、耽美以及网络小说。同时，她也提到我们这代人跟她们那代人同样的幸运，生在小说、书籍的黄金年代和音乐的黄金年代。目前“Z世代”的孩子沉迷的，我想大概是抖音之流的短视频和手机游戏吧，每一代人有每一代人的钟爱，就如店员姐姐说的，她们那代人追的是港台歌星，我们这代人在校园时沉迷的是文学巨擘。</p><p>最后，照例买了一本书（是阿西莫夫的银河帝国第一册）离开了，我想我大概今后不会再踏入这个书店了，它在我记忆中的痕迹已经完全“消失”了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;上周末回浏阳，跟琦琦上街逛的时候路过了市一中，熟悉的春雷书店依旧还在营业。&lt;/p&gt;
+&lt;p&gt;“这个书店是我高中时是我获取精神养分的重要来源，虽然开在市中心，但每周都会往我就读的郊区高中送最新的报刊、书籍。进而在高中我就读过了马尔克斯，村上春树等耳熟能详的名家作品。在同龄人中，</summary>
+      
+    
+    
+    
+    <category term="杂文" scheme="http://example.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>2025：浏览器中的 A-Z</title>
